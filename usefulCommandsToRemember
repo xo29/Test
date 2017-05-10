@@ -1,0 +1,4 @@
+List:
+
+Remove Branch: git branch -d <branch name>
+Commit properly: git commit -m 'Add text here'
